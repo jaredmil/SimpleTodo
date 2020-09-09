@@ -34,6 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+    - I came across of a few syntax errors becaude of outdated import statements on walkthrough
+    - My Emulator was outdated and I had to replace a file and update it which was confusing
+    - Android Studio crashed on me multiple times and was running slow
+
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
